@@ -1,0 +1,6 @@
+export const ADD_TODO = 'ADD_TODO'
+export const COMPLETE_TODO = 'COMPLETE_TODO'
+export const DELETE_TODO = 'DELETE_TODO'
+export const EDIT_MODE = 'EDIT_MODE'
+export const DELETE_COMPLETED_TODOS = 'DELETE_COMPLETED_TODOS'
+export const EDIT_TODO = 'EDIT_TODO'
