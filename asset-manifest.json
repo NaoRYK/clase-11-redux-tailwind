@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clase-11-redux-tailwind/static/css/main.bce4b461.css",
+    "main.js": "/clase-11-redux-tailwind/static/js/main.e50e8cf7.js",
+    "index.html": "/clase-11-redux-tailwind/index.html",
+    "main.bce4b461.css.map": "/clase-11-redux-tailwind/static/css/main.bce4b461.css.map",
+    "main.e50e8cf7.js.map": "/clase-11-redux-tailwind/static/js/main.e50e8cf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bce4b461.css",
+    "static/js/main.e50e8cf7.js"
+  ]
+}
